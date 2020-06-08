@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_matter.wav-178f35a8071f8c40d12966e79cd963ca.sample"
+
+[deps]
+
+source_file="res://sounds/effect/snd_matter.wav"
+dest_files=[ "res://.import/snd_matter.wav-178f35a8071f8c40d12966e79cd963ca.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

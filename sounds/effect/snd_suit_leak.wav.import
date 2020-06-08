@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_suit_leak.wav-72258b9d2f130c99e2f8171d4de0292c.sample"
+
+[deps]
+
+source_file="res://sounds/effect/snd_suit_leak.wav"
+dest_files=[ "res://.import/snd_suit_leak.wav-72258b9d2f130c99e2f8171d4de0292c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
