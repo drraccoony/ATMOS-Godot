@@ -7,15 +7,22 @@ extents = Vector2( 48, 16 )
 
 [node name="Ground" type="StaticBody2D"]
 position = Vector2( 32, 0 )
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="spr_ground_top_strip3" type="Sprite" parent="."]
-position = Vector2( 544, 512 )
+position = Vector2( -32, 0 )
 texture = ExtResource( 1 )
 centered = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 592, 528 )
+position = Vector2( 16, 16 )
 shape = SubResource( 1 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_left = -32.0
+margin_top = 32.0
+margin_right = 64.0
+margin_bottom = 480.0
+color = Color( 0, 0, 0, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}

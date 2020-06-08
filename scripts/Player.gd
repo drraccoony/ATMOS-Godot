@@ -4,7 +4,7 @@ export var movespeed = 100
 export var jumpheight = 250
 export var gravity = 10
 
-var jetpack_max_fuel = 40
+export var jetpack_max_fuel = 40
 var jetpack_fuel = jetpack_max_fuel
 
 const up = Vector2(0, -1)
@@ -12,7 +12,7 @@ var motion = Vector2()
 
 var onground = 0
 var jumped = 0
-var jetpack_thrust = 40
+export var jetpack_thrust = 40
 var jetpack_armed = 0
 var jetpacking = 0
 
