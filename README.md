@@ -4,6 +4,7 @@
  ## Ideal Alterations to original game
  
  * Better performance
- * Network Gameplay
+ * Networked Co-op Gameplay
  * Completed Gameplay Loop
  * More objectives
+ * HTTP Framework to introduce Online Leaderboards and daily seeds.
